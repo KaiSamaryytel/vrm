@@ -1,3 +1,6 @@
+#Silex is in maintenance mode. Ends of life is set to June 2018. 
+
+
 # BCS koolitus - Booking App
 ====================================================
 
